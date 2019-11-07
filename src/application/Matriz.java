@@ -7,6 +7,8 @@ public class Matriz {
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
 		
+		// alterando
+		
 		Scanner sc = new Scanner(System.in);
 		
 		int linhas = sc.nextInt();
